@@ -23,5 +23,15 @@ public class Demo {
         System.out.println("失败了....");
         System.out.println("失败了....");
         System.out.println("失败了....");
+        System.out.println("失败了....");
+        System.out.println("失败了....");
+        System.out.println("失败了....");
+        System.out.println("失败了....");
+        System.out.println("失败了....");
+        System.out.println("失败了....");
+        System.out.println("失败了....");
+        System.out.println("失败了....");
+        System.out.println("失败了....");
+        System.out.println("失败了....");
     }
 }
